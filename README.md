@@ -1,5 +1,5 @@
 # T5: Text-To-Text Transfer Transformer
-Play with T5 
+Play with T5 and deploy
 
 
 ## Citation
